@@ -1,0 +1,33 @@
+nav{
+  padding:5px
+}
+nav a{
+  color:black;
+  margin:0 10px 0 10px;
+  display:inline-block;
+  width:20%;
+  text-align:center;
+}
+
+html{
+  font-family: Arial;
+}
+
+a{
+  text-decoration: none;
+}
+
+nav a:hover{
+  border-bottom: 2px solid black;
+}
+
+#banner{
+  background-color:;
+  color:;
+}
+
+.main{
+  font-size: larger;
+  color: blue;
+}
+
