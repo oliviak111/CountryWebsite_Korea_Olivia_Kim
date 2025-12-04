@@ -22,8 +22,18 @@ nav a:hover{
 }
 
 #banner{
-  background-color:;
-  color:;
+  height: 450px;
+  background-image: url("bacground.jpg");
+  font-family: monospace;
+  font-size: 100px;
+  align-items: center;
+  justify-content:center;
+  color: white;
+}
+
+#banner:hover{
+  background-image: url("anotherbac.jpg");
+  transition: 2s;
 }
 
 .main{
@@ -31,3 +41,7 @@ nav a:hover{
   color: blue;
 }
 
+.container{
+  display: flex;
+ 
+}
