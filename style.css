@@ -44,6 +44,17 @@ nav a:hover{
   transition: 2s;
 }
 
+#bannerh{
+  height: 450p;
+  background-image: url("koreanwar.jpg");
+   font-family: monospace;
+  font-size: 100px;
+  align-items: center;
+  justify-content:center;
+  color: white;
+}
+
+
 .main{
   font-size: larger;
   color: blue;
@@ -67,7 +78,9 @@ nav a:hover{
 }
 
 #para p:hover{
+  transition: 10s;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
   font-weight: bold;
+  
 }
