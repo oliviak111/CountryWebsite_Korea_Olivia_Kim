@@ -84,3 +84,12 @@ nav a:hover{
   font-weight: bold;
   
 }
+
+#info{
+  background-color: rgba(126, 86, 26, 0.562);
+  font-size: 20px;
+}
+
+#info img:hover{
+  width: 500px;
+}
