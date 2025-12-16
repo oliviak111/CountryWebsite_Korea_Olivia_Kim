@@ -64,6 +64,15 @@ nav a:hover{
   color: rgb(224, 222, 222);
 }
 
+#bannerg{
+  height: 450px;
+  background-image: url("bannergg.jpg");
+  font-family: monospace;
+  font-size: 100px;
+  align-items: center;
+  justify-content: center;
+  color:white;
+}
 .main{
   font-size: larger;
   color: blue;
@@ -101,4 +110,30 @@ nav a:hover{
 
 #info img:hover{
   width: 500px;
+}
+
+#infoh{
+  background-color: rgb(167, 76, 106);
+  font-size: 17px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#infoh img{
+  opacity: 0.2;
+}
+
+#infoh img:hover{
+  opacity:1.0;
+  height: 700px;
+  width: 700px;
+}
+
+#cult{
+  font-size: 17px;
+  background-color: rgb(199, 99, 116);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#cult img:hover{
+  
 }
