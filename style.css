@@ -84,6 +84,11 @@ nav a:hover{
   color: blanchedalmond; 
 }
 
+#barg{
+  background-color: rgba(20, 128, 68, 0.664);
+
+}
+
 #para{
   font-size: 18px;
   background-color: rgb(201, 174, 139);
@@ -134,6 +139,95 @@ nav a:hover{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-#cult img:hover{
-  
+#imgcon img{
+  opacity: 0.1;
+}
+
+#imgcon img:hover{
+  opacity: 1.0;
+  height: 500px;
+  width: 700px;
+}
+
+#imgc img{
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+}
+
+#imgc img:hover{
+  height: 500px;
+  width: 700px;
+}
+
+#parac{
+  background-color: rgba(46, 98, 143, 0.651);
+}
+
+#infoc{
+  background-color: rgba(46, 98, 143, 0.651);
+}
+
+#imgc{
+  background-color: rgba(19, 100, 170, 0.418);
+}
+
+#imgcon{
+  background-color: rgba(19, 100, 170, 0.418);
+}
+
+#pg{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-color: rgba(226, 162, 43, 0.226);
+}
+
+#mg{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-color: rgba(226, 162, 43, 0.226);
+}
+
+#cg{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-color: rgba(226, 162, 43, 0.226);
+}
+
+#tg{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-color: rgba(226, 162, 43, 0.226);
+}
+
+#hanbok{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-color: rgba(226, 162, 43, 0.226);
+}
+
+#parag img:hover{
+  opacity: 0.5;
+}
+
+#imggg img:hover{
+  opacity:0.6;
+}
+
+#cultg img:hover{
+  opacity: 0.3;
+}
+
+#gg img:hover{
+  opacity: 0.8;
+}
+
+#imgg img:hover{
+  opacity:0.2
+
 }
